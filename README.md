@@ -1,3 +1,3 @@
 # Contact Form 7 WooCommerce
-- Add a dropdown menu for WooCommerce products
-- Add a dropdown menu for WooCommerce orders (customer must be logged in to view their orders)
+- Dropdown menu for WooCommerce Products
+- Dropdown menu for WooCommerce Orders (customer must be logged in to view their orders)
